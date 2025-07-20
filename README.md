@@ -3,7 +3,7 @@
 🎓 **Electrical Engineering Student** |  **Research Assistant at System on Chip Lab**  
 💡 Passionate about **RTL Design**, **Design for Testability**, and **FPGA Development**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rana%20Umar%20Nadeem-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/rana-umar-nadeeme)   [![Email](https://img.shields.io/badge/Email-rana.umar.nadeem21%40gmail.com-red?logo=gmail&logoColor=white)](mailto:rana.umar.nadeem21@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rana%20Umar%20Nadeem-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/rana-umar-nadeem)   [![Email](https://img.shields.io/badge/Email-rana.umar.nadeem21%40gmail.com-red?logo=gmail&logoColor=white)](mailto:rana.umar.nadeem21@gmail.com)
 
 ---
 
@@ -14,7 +14,6 @@ My core interests lie in:
 -  Design Verification (System Verilog, UVM ,RISCV-DV)
 -  Design-for-Testability (DFT), ATPG, and Scan Architectures
 -  FPGA Prototyping and SoC Design
-- Digital Design Verification and Simulation Automation
 
 I love diving deep into complex design problems—from writing synthesizable RTL to building Testability metric analyzers and testbench generators. Outside of the lab, I share my learnings through high-quality, beginner-friendly technical articles.
 
