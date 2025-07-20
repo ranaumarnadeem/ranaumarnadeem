@@ -1,11 +1,35 @@
-I’m an Electrical Engineering student with a deep enthusiasm for embedded systems and hardware design. My focus areas include RTL design, IC testability, and FPGA development. Currently, I’m honing my skills as a research assistant at the System on Chip Lab, where I work on advancing IC testability.
+# 👋 Hi, I'm Rana Umar Nadeem
 
-I’m passionate about solving complex engineering problems and am always excited to dive into new projects and collaborate with others. From crafting Verilog code to exploring the latest in FPGA technology, I love pushing the boundaries of digital design.
+🎓 **Electrical Engineering Student** |  **Research Assistant at System on Chip Lab**  
+💡 Passionate about **RTL Design**, **Design for Testability**, and **FPGA Development**
 
-In addition to my technical work, I share detailed articles on digital design topics on Medium and Substack(links given below).
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rana%20Umar%20Nadeem-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/rana-umar-nadeeme)   [![Email](https://img.shields.io/badge/Email-rana.umar.nadeem21%40gmail.com-red?logo=gmail&logoColor=white)](mailto:rana.umar.nadeem21@gmail.com)
 
-Feel free to connect with me if you’re interested in discussing hardware design, HDL coding, or just want to share ideas about the future of technology!
+---
 
-Medium: [@ranaumarnadeem](https://medium.com/@ranaumarnadeem)
+I'm an enthusiastic digital hardware designer specializing in embedded systems and digital logic. Currently, I work as a **Research Assistant** at the **System on Chip Lab**, where I contribute to projects advancing **Design for testability and post-silicon validation**.
 
-Substack: https://ranaumarnadeem.substack.com/publish/posts
+My core interests lie in:
+-  RTL Design and HDL Coding (Verilog/SystemVerilog)
+-  Design Verification (System Verilog, UVM ,RISCV-DV)
+-  Design-for-Testability (DFT), ATPG, and Scan Architectures
+-  FPGA Prototyping and SoC Design
+- Digital Design Verification and Simulation Automation
+
+I love diving deep into complex design problems—from writing synthesizable RTL to building Testability metric analyzers and testbench generators. Outside of the lab, I share my learnings through high-quality, beginner-friendly technical articles.
+
+---
+
+## 📝 Articles & Publications
+
+I regularly publish detailed technical content on digital design, testability, and VLSI systems:
+
+[![Medium](https://img.shields.io/badge/Medium-Read%20Articles-black?logo=medium&logoColor=white)](https://medium.com/@ranaumarnadeem)  
+[![Substack](https://img.shields.io/badge/Substack-We%20Talk%20Chips-orange?logo=substack&logoColor=white)](https://ranaumarnadeem.substack.com)
+
+---
+
+
+
+
+
